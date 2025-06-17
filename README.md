@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/umshere-uiflowchartcreator-badge.png)](https://mseep.ai/app/umshere-uiflowchartcreator)
+
 # UIFlowchartCreator
 
 UIFlowchartCreator is an MCP (Model Context Protocol) server for creating UI flowcharts. This tool helps developers and designers visualize user interfaces and their interactions.
